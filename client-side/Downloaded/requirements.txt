@@ -1,0 +1,7 @@
+pandas==1.5.3
+streamlit==1.16.2
+cryptography==40.0.0
+socket==22.0.0
+datetime==4.9.0
+hashlib==2023.7.30
+os==1.17.1
